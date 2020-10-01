@@ -24,7 +24,7 @@ About this barclamp
 
 Information for this barclamp is maintained on the [Crowbar Framework Wiki](https://github.com/crowbar/crowbar/wiki)
 
-Contact
+Contacts
 -------
 
 To get in contact with the developers you have multiple options, all of them are listed below:
